@@ -9,15 +9,18 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/[your-linkedin](https://www.linkedin.com/in/hemantsoni13579/)" target="_blank">
+  <a href="https://www.linkedin.com/in/hemantsoni13579/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
- 
-  <a href="hemantsoni1354@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="[https://your-portfolio-website.com](https://hemants-portfolio-lime.vercel.app/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+
+
+  <a href="mailto:hemantsonihs412@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<div align="center">
+  <a href="https://hemants-portfolio-lime.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" />
   </a>
 </div>
 
